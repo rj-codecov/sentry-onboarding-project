@@ -11,6 +11,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@sentry/browser": "^7.85.0",
+    "@sentry/webpack-plugin": "^2.10.2",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
