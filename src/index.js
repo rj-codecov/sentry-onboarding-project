@@ -2,7 +2,7 @@ import _ from 'lodash';
 import * as Sentry from "@sentry/browser";
 
 Sentry.init({
-  dsn: "https://7d881b4dd4254a0a94f449045cfd5882@o26192.ingest.sentry.io/74037",
+  dsn: "https://fd43e9b1c02c9ea1a4663e632048ca19@o4506242183987200.ingest.sentry.io/4506344378728448",
 
   // Alternatively, use `process.env.npm_package_version` for a dynamic release version
   // if your build tool supports it.
