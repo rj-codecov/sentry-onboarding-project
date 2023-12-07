@@ -26,6 +26,8 @@ Sentry.init({
   replaysOnErrorSampleRate: 1.0,
 });
 
+Sentry.setTag("buttons", "1");
+
 function component() {
   const element = document.createElement('div');
 
