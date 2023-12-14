@@ -4,6 +4,9 @@ import * as Sentry from "@sentry/browser";
 Sentry.init({
   dsn: "https://fd43e9b1c02c9ea1a4663e632048ca19@o4506242183987200.ingest.sentry.io/4506344378728448",
 
+  // for debugging
+  debug: true,
+
   //environment
   environment: "staging",
 
